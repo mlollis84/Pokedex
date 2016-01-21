@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex-by-mikes-concepts/Pokemon.swift"
+            timestampString = "475104024.879467"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "99"
+            endingLineNumber = "99"
+            landmarkName = "downloadPokemonDetails(_:)"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex_by_mikes_concepts.Pokemon.downloadPokemonDetails (Pokedex_by_mikes_concepts.Pokemon)(() -&gt; ()) -&gt; ()"
+                  moduleName = "Pokedex-by-mikes-concepts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LollisMac/Desktop/Pokedex-by-mikes-concepts/Pokedex-by-mikes-concepts/Pokemon.swift"
+                  timestampString = "475093465.471936"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "914">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Pokedex_by_mikes_concepts.Pokemon.(downloadPokemonDetails (Pokedex_by_mikes_concepts.Pokemon) -&gt; (() -&gt; ()) -&gt; ()).(closure #1)"
+                  moduleName = "Pokedex-by-mikes-concepts"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/LollisMac/Desktop/Pokedex-by-mikes-concepts/Pokedex-by-mikes-concepts/Pokemon.swift"
+                  timestampString = "475093465.472284"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "58">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Pokedex-by-mikes-concepts/PokemonDetailVC.swift"
+            timestampString = "475104024.879467"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
